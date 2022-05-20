@@ -29,6 +29,23 @@ WPF имеет 2 типа ресурсов.
 
 Ресурсы оконного уровня:
 
+```
+<Window.Resources>
+<Thickness x:Key="MarginTop">0 5 0 0</Thickness>
+</Window.Resources>  
+```
 Ресурсы панельного уровня:
+```
+<Grid.Resources>
+<Thickness x:Key="MarginTR">0 5 5 0</Thickness>
+</Grid.Resources> 
+```
+Ресурсы прикладного уровня
+ 
+Перейдите в App.xaml приложения
+<Application.Resources>
+<Thickness x:Key="MarginTR">0 5 5 0</Thickness>
+</Application.Resources>
+
 
 [Работа с ресурсами приложения](https://metanit.com/sharp/wpf/3.3.php?#:~:text=%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%B0%D0%BC%D0%B8%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
