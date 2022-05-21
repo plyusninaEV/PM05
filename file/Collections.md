@@ -14,10 +14,14 @@
 
 Пространство **System.Collections.Generic** содержит большой набор коллекций, которые позволяют удобно и эффективно решать широкий круг задач. Ниже, в таблице, перечислены некоторые из обобщенных классов с указанием интерфейсов, которые они реализуют.
 
-  | Обобщенный класс 	| Основные интерфейсы 	|Описание |
-  | List<T> 	| ICollection<T>, IEnumerable<T>, IList<T> |	Список элементов с динамически изменяемым размером |
+| Обобщенный класс 	| Основные интерфейсы 	|Описание |
+|----:|:----:|:----------|
+| List<T> 	| ICollection<T>, IEnumerable<T>, IList<T> |	Список элементов с динамически изменяемым размером |
+|----:|:----:|:----------|
 | Dictionary<TKey, TValue> |	ICollection<T>, IDictionary<TKey, TValue>, IEnumerable<T> |
 	Коллекция элементов связанных через уникальный ключ |
-Queue<T> 	ICollection, IEnumerable<T> 	Очередь –  список, работающий по алгоритму FIFO
-Stack<T> 	ICollection, IEnumerable<T> 	Стэк – список, работающий по алгоритму LIFO
+|----:|:----:|:----------|
+| Queue<T> |	ICollection, IEnumerable<T> | Очередь –  список, работающий по алгоритму FIFO |
+|----:|:----:|:----------|
+| Stack<T> |	ICollection, IEnumerable<T> |	Стэк – список, работающий по алгоритму LIFO |
 SortedList<TKey,TValue> 	IComparer<T>, ICollection<KeyValuePair<TKey,TValue>>, IDictionary<TKey,TValue> 	Коллекция пар “ключ-значение”, упорядоченных по ключу
