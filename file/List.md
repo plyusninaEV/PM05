@@ -90,3 +90,39 @@ players.Insert(1, new Player { Name = "Butterfly", Skill = "flutter like a butte
 //Посмотрим на все элементы списка
 players.ForEach(p => Console.W
 ```
+# Пример работы с элементами
+  ```
+  using System;
+using System.Collections.Generic;
+
+namespace Lists
+{
+    class Program
+    {
+    static void Main(string[] args)
+    {
+        List<User> listOfUsers = new List<User>()
+        {
+        new User() { Name = "John Doe", Age = 42 },
+        new User() { Name = "Jane Doe", Age = 34 },
+        new User() { Name = "Joe Doe", Age = 8 },
+        };
+
+        for(int i = 0; i < listOfUsers.Count; i++)
+        {
+        Console.WriteLine(listOfUsers[i].Name + " is " + listOfUsers[i].Age + " years old");
+        }
+        Console.ReadKey();
+    }
+    }
+
+    class User
+    {
+    public string Name { get; set; }
+
+    public int Age { get; set; }
+    }
+}
+```
+Cнизу определили простой класс для хранения информации о пользователе - просто имя и возраст. Вернемся к верхней части примера, где изменили наш список, чтобы использовать этот класс пользователя вместо простых строк. Здесь используется инициализатор коллекции для заполнения списка пользователями - обратите внимание, что синтаксис тот же, что и раньше, только немного сложнее, потому что мы имеем дело с более сложным объектом, чем строка.     
+                                             
