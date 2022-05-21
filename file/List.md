@@ -128,7 +128,7 @@ Cнизу определили простой класс для хранения
                                              
 ## Сортировка
 ```
-                                             using System;
+using System;
 using System.Collections.Generic;
 
 namespace ListSort
