@@ -24,7 +24,9 @@ CAPTCHA означает полностью автоматизированный
 
 
 [Делаем свою капчу (asp.net, c#)](https://calmsen.ru/delaem-svoyu-kapchu-asp-net-c/?ysclid=l3fgj7bha3)
-Источник: https://calmsen.ru/delaem-svoyu-kapchu-asp-net-c/?ysclid=l3fgj7bha3 
+
 [Создание CAPCHA для Windows Form приложений ](http://csharpsourescode.blogspot.com/2013/02/capcha.html)
+
 [CAPTCHA in WPF Using C#](https://www.c-sharpcorner.com/UploadFile/631fc0/captcha-in-wpf-using-C-Sharp/)
+
 [Создание капчи на ASP.NET MVC](https://metanit.com/sharp/articles/mvc/7.php?ysclid=l3fh24lygb)
