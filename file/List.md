@@ -23,7 +23,8 @@ var words = new List<string> {"one", "two", "three"};
   |:----:|:----:|:----------:|
   | Count |	Количество элементов в списке |
   | Capacity |	Емкость списка – количество элементов, которое может вместить список без изменения размера |
-```
+
+  ```
   Console.WriteLine("Свойства");
 Console.WriteLine($"- Count: nums.Count = {nums.Count}");
 Console.WriteLine($"- Capacity: nums.Capacity = {nums.Capacity}");
@@ -62,13 +63,15 @@ static private string ListToString<T>(List<T> list) =>
 "{" + string.Join(", ", list.ToArray()) + "}";
 
 Далее приведен пример работы со списком, в котором хранятся объекты пользовательского типа. Создадим класс Player, имеющий свойства: Name и Skill.
-class Player
+```
+  class Player
 {
     public string Name { get; set; }
     public string Skill { get; set; }
 }
-
+```
 Создадим список игроков и выполним с ним ряд действий:
+  ```
 Console.WriteLine("Работа с пользовательским типом");
 List<Player> players = new List<Player> {
     new Player { Name = "Psy", Skill = "Monster"},
@@ -81,3 +84,4 @@ Console.WriteLine("Количество элементов в players:{0}", play
 players.Insert(1, new Player { Name = "Butterfly", Skill = "flutter like a butterfly, pity like a bee"});
 //Посмотрим на все элементы списка
 players.ForEach(p => Console.W
+```
