@@ -44,7 +44,9 @@ Remove(T) 	Удаляет указанный элемент из списка
 RemoveAt(Int32) 	Удаляет элемент из заданной позиции
 Sort() 	Сортирует список
 Reverse() 	Меняет порядок расположения элементов на противоположный
-Console.WriteLine($"nums: {ListToString(nums)}");            
+
+  ```
+  Console.WriteLine($"nums: {ListToString(nums)}");            
 nums.Add(6);
 Console.WriteLine($"nums.Add(6): {ListToString(nums)}");            
 Console.WriteLine($"words.BinarySearch(\"two\"): {words.BinarySearch("two")}");
@@ -57,11 +59,12 @@ Console.WriteLine($"nums.Insert(3, 7): {ListToString(nums)}");
 Console.WriteLine($"words.Find(v => v.Length == 3): {words.Find(v => v.Length == 3)}");
 words.Remove("two");
 Console.WriteLine($"words.Remove(\"two\"): {ListToString(words)}");
-
+```
 Код метода ListToString:
+  ```
 static private string ListToString<T>(List<T> list) =>
 "{" + string.Join(", ", list.ToArray()) + "}";
-
+```
 Далее приведен пример работы со списком, в котором хранятся объекты пользовательского типа. Создадим класс Player, имеющий свойства: Name и Skill.
 ```
   class Player
