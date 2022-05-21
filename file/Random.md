@@ -72,3 +72,5 @@ Console.WriteLine("RandomString(5): {0}", RandomString(5));
 
 даст, например, такой результат:
 RandomString(5): HDYFN
+
+[Генерация случайного имени пользователя длиной до 3 цифр иногда ставит 4 цифры](https://reddeveloper.ru/questions/c-generatsiya-sluchainogo-imeni-pol-zovatelya-dlinoi-do-3-tsifr-inogda-stavit-4-tsifry-x1qMa)
