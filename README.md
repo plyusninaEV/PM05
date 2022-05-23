@@ -13,4 +13,4 @@
 
 [Требования к интерфейсу пользователя](https://github.com/plyusninaEV/PM05/blob/main/file/Interface_u.md)
 
-Разработка графического интерфейса пользователя
+[Разработка графического интерфейса пользователя](https://github.com/plyusninaEV/PM05/blob/main/file/GUI.md)
