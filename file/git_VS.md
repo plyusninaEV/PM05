@@ -34,3 +34,4 @@
 
 
 [ИТ-КОМАНДЫ: ИХ ФУНКЦИИ И ТИПЫ](https://www.careerist.com/ru-insights/it-komandy-ih-funkcii-i-tipy?)
+[Распределение ролей в современной IT команде](https://www.be-analyst.ru/single-post/2019/07/30/%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%BE%D0%BB%D0%B5%D0%B9-%D0%B2-%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-it-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B5)
