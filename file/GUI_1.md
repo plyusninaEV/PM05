@@ -96,3 +96,5 @@
  Windows (основы проектирования)(https://docs.microsoft.com/ru-ru/windows/win32/uxguide/windows)
  
  Рекомендации(https://docs.microsoft.com/ru-ru/windows/win32/uxguide/guidelines)
+
+ [Проектирование графического интерфейса пользователя](https://habr.com/ru/post/208966/?ysclid=l3k0zej3a0)
