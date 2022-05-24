@@ -161,4 +161,4 @@ namespace ListSort
     }
 }
   ```
-[ListBox Класс[(https://googleweblight.com/sp?hl=ru-RU&geid=NSTN&u=https://docs.microsoft.com/ru-ru/dotnet/api/system.windows.forms.listbox)
+[ListBox Класс](https://googleweblight.com/sp?hl=ru-RU&geid=NSTN&u=https://docs.microsoft.com/ru-ru/dotnet/api/system.windows.forms.listbox)
