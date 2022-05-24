@@ -57,3 +57,4 @@ ListBox - это элемент управления, который предо�
 	
 </Window>
 ```
+![](https://github.com/plyusninaEV/PM05/blob/main/WPF/images/output_of_listbox.png)
