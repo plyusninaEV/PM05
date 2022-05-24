@@ -85,3 +85,4 @@ ListBox - это элемент управления, который предо�
 
 [ListBox In WPF](https://www.c-sharpcorner.com/uploadfile/mahesh/listbox-in-wpf/)
 
+[ListBox Класс](https://googleweblight.com/sp?hl=ru-RU&geid=NSTN&u=https://docs.microsoft.com/ru-ru/dotnet/api/system.windows.forms.listbox)
