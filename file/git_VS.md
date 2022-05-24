@@ -30,6 +30,8 @@
 
 [История изменений и колективная работа в C#. Visual Studio и GitHub](https://zen.yandex.ru/media/pss/istoriia-izmenenii-i-kolektivnaia-rabota-v-c-visual-studio-i-github-5f88542d9eb9a66f8bb62712)
 
+[Совместная разработка в команде на GitHub](https://code.tutsplus.com/ru/articles/team-collaboration-with-github--net-29876)
+
 # Команда проекта, роли и функции членов команды
 
 
