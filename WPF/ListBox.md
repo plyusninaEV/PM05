@@ -58,3 +58,25 @@ ListBox - это элемент управления, который предо�
 </Window>
 ```
 ![](https://github.com/plyusninaEV/PM05/blob/main/WPF/images/output_of_listbox.png)
+
+# Перенос текста в listbox
+
+Вам придется переопределить шаблон элемента списка и указать ему необходимость переноса текста явно. К тому же придется отключить горизонтальный скроллбар, иначе контейнер будет всегда давать элементам столько места сколько они хотят:
+```
+<ListBox FontFamily="Times New Roman" FontSize="16"
+         ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+    <ListBox.ItemContainerStyle>
+        <Style TargetType="ListBoxItem">
+            <Setter Property="Background" Value="Gainsboro"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="5"/>
+        </Style>
+    </ListBox.ItemContainerStyle>
+    <ListBox.ItemTemplate>
+        <DataTemplate>
+            <TextBlock Text="{Binding}" TextWrapping="Wrap"/>
+        </DataTemplate>
+    </ListBox.ItemTemplate>
+</ListBox>
+```
+![](https://github.com/plyusninaEV/PM05/blob/main/WPF/images/8n9mA.gif)
