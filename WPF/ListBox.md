@@ -2,6 +2,8 @@
 
 ListBox - это элемент управления, который предоставляет список элементов для выбора элемента пользователем. Пользователь может выбрать один или несколько элементов из предопределенного списка элементов одновременно. В списке несколько параметров всегда видны пользователю без какого-либо взаимодействия с пользователем
 
+[ListBox Класс](https://googleweblight.com/sp?hl=ru-RU&geid=NSTN&u=https://docs.microsoft.com/ru-ru/dotnet/api/system.windows.forms.listbox)
+
 # Пример
 
 - Давайте создадим новый проект WPF с именем WPFListBoxControl.
@@ -85,4 +87,5 @@ ListBox - это элемент управления, который предо�
 
 [ListBox In WPF](https://www.c-sharpcorner.com/uploadfile/mahesh/listbox-in-wpf/)
 
-[ListBox Класс](https://googleweblight.com/sp?hl=ru-RU&geid=NSTN&u=https://docs.microsoft.com/ru-ru/dotnet/api/system.windows.forms.listbox)
+[The ListBox control](https://www.wpf-tutorial.com/list-controls/listbox-control/)
+
