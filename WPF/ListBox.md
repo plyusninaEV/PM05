@@ -80,3 +80,8 @@ ListBox - это элемент управления, который предо�
 </ListBox>
 ```
 ![](https://github.com/plyusninaEV/PM05/blob/main/WPF/images/8n9mA.gif)
+
+# Пример 
+
+[ListBox In WPF](https://www.c-sharpcorner.com/uploadfile/mahesh/listbox-in-wpf/)
+
