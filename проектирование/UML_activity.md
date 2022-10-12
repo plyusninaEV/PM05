@@ -1,4 +1,4 @@
-#
+# Диаграмма деятельности
 
 [Конспект лекции (с видео) от WorldSkills](https://nationalteam.worldskills.ru/skills/proektirovanie-diagrammy-deyatelnosti-uml-activity-diagram/?ysclid=l95b2o0x9y683260873)
 
@@ -32,5 +32,7 @@
 Начальное и конечное состояния на диаграммах деятельности изображаются как закрашенный кружок и закрашенный кружок внутри окружности, соответственно.
 
 [Учебник по схеме деятельности](https://online.visual-paradigm.com/diagrams/tutorials/activity-diagram-tutorial/)
+
 [Диаграмма деятельности UML](https://planerka.info/item/diagrammy-deyatelnosti-uml/?ysclid=l95b39gvir384473428)
+
 [Теория и практика UML. Диаграмма деятельности](http://www.it-gost.ru/articles/view_articles/96)
