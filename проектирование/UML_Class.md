@@ -65,5 +65,6 @@
 
 ![](https://www.cybermedian.com/ru/wp-content/uploads/sites/9/2022/02/img_6216ddbf82876.png)
 
+[Простое руководство по использованию классовых диаграмм UML | Учебное пособие по использованию классовых диаграмм](https://creately.com/blog/ru/uncategorized-ru/учебное-пособие-по-диаграмме-классов/)
 
 [Диаграмма классов](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-and-uml/class-diagram.md)
