@@ -63,4 +63,7 @@
 - `#` обозначает защищенные атрибуты или операции
 - `~` обозначает атрибуты пакета или операции
 
+![](https://www.cybermedian.com/ru/wp-content/uploads/sites/9/2022/02/img_6216ddbf82876.png)
+
+
 [Диаграмма классов](https://github.com/tssovi/grokking-the-object-oriented-design-interview/blob/master/object-oriented-design-and-uml/class-diagram.md)
