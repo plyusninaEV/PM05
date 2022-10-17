@@ -9,4 +9,4 @@
 ## Пример класса
 У собаки есть состояния – цвет, имя, порода, а также поведение – виляние, лай, еда. Объект является экземпляром класса.
 
-[](https://www.cybermedian.com/ru/wp-content/uploads/sites/9/2022/02/img_6216dd4f9b3aa.png)
+![](https://www.cybermedian.com/ru/wp-content/uploads/sites/9/2022/02/img_6216dd4f9b3aa.png)
