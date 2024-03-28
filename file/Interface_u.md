@@ -14,6 +14,8 @@
 
 # ТРЕБОВАНИЯ К ИНТЕРФЕЙСУ ПОЛЬЗОВАТЕЛЯ 
 
+[Структура требований к программному обеспечению. Общая схема](https://personalyst.pro/images/artimages/Requirements/Strukture.jpg)
+
 [Принципы пользовательского интерфейса](https://learn.microsoft.com/ru-ru/windows/win32/appuistart/-user-interface-principles)
 
 # ОСНОВНЫЕ   ПРИНЦИПЫ   РАЗРАБОТКИ   ПОЛЬЗОВАТЕЛЬСКОГО ИНТЕРФЕЙСА
