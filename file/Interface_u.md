@@ -116,3 +116,5 @@
 [Топ-10 ошибок дизайна приложений](https://infogra.ru/ui/top-10-oshibok-dizajna-prilozhenij?ysclid=lub7914f19606768219)
 
 [«Худшие» интерфейсы](https://vc.ru/design/74503-hudshie-interfeysy-na-reddit-zhurnal-o-dizayne-ot-medium-versiya-sketch-dlya-komand-i-drugie-vazhnye-materialy-za-iyun?ysclid=lub77lpogw244139232)
+
+[19 примеров плохого дизайна веб-сайтов: в чем ошиблись](https://supa.ru/blog/posts/19-primierov-plokhogho-dizaina-vieb-saitov-v-chiem-oshiblis-ikh-sozdatieli?ysclid=lub76voe3b601132248)
