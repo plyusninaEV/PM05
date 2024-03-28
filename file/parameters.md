@@ -58,6 +58,7 @@ IT-проект – сложный «механизм», который треб
 - состав, методы и технологию аналитических и графических отчетов;
 - комплекс используемых программно-информационных средств.
 
+Visual Studio предоставляет широкий набор средств профилирования для выявления различных типов проблем с производительностью в зависимости от типа приложения. [Первое знакомство со средствами профилирования](https://web.archive.org/web/20210802195618/https://docs.microsoft.com/ru-ru/visualstudio/profiling/profiling-feature-tour?view=vs-2019)
 
 [Инструментирование приложений .NET в Visual Studio (C#, C++, Visual Basic, F#)](https://learn.microsoft.com/en-us/visualstudio/profiling/instrumentation?view=vs-2022)
 
