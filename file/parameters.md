@@ -60,6 +60,8 @@ IT-проект – сложный «механизм», который треб
 
 Visual Studio предоставляет широкий набор средств профилирования для выявления различных типов проблем с производительностью в зависимости от типа приложения. [Первое знакомство со средствами профилирования](https://web.archive.org/web/20210802195618/https://docs.microsoft.com/ru-ru/visualstudio/profiling/profiling-feature-tour?view=vs-2019)
 
+Средство диагностики Использование ЦП, интегрированное в отладчик, позволяет находить проблемы с производительностью во время отладки. Анализировать загрузку ЦП также можно без подключения отладчика — нужно просто указать выполняющееся приложение. [Измерение производительности приложения посредством анализа использования ЦП (C#, Visual Basic, C++, F#)](https://web.archive.org/web/20220418100742/https://docs.microsoft.com/ru-ru/visualstudio/profiling/beginners-guide-to-performance-profiling?view=vs-2019)
+
 [Инструментирование приложений .NET в Visual Studio (C#, C++, Visual Basic, F#)](https://learn.microsoft.com/en-us/visualstudio/profiling/instrumentation?view=vs-2022)
 
 # Сохранение версий проекта
