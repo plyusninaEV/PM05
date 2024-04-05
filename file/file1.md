@@ -18,4 +18,4 @@
 -	в местах, где требуется список элементов (объектов), использовать контейнер DataGrigView с контекстным меню (например, на удаление, добавление и изменение);
 -	аутентификация пользователей.
 
-[Разработаем пользовательский интерфейс на основе системы Windows Presentation Foundation(WPF)](https://github.com/plyusninaEV/PM05/blob/main/file/file2.md)
+[Разработка пользовательского интерфейс на основе системы Windows Presentation Foundation(WPF)](https://github.com/plyusninaEV/PM05/blob/main/file/file2.md)
