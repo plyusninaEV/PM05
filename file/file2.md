@@ -39,3 +39,40 @@ Window2.xaml
  </Grid>
 </Window>
 ```
+#  Модальные и обычные кнопки диалогового окна
+```
+<Window x:Class="WINDOWS.Window2"
+ …
+ SizeToContent="WidthAndHeight"
+ IsVisibleChanged="Window_IsVisibleChanged" >
+ <Grid Margin="5">
+ <Grid.RowDefinitions>
+ <RowDefinition/>
+ <RowDefinition/>
+ <RowDefinition/>
+ </Grid.RowDefinitions>
+ <Grid.ColumnDefinitions>
+<ColumnDefinition/>
+ <ColumnDefinition/>
+ </Grid.ColumnDefinitions>
+ <Label Content="Заголовок главного окна:" Margin="5" />
+ <Label Content="Заголовок подчиненного окна:" Margin="5" 
+ Grid.Row="1" />
+ <TextBox x:Name="textBox1" Grid.Column="1" Margin="5" 
+ Text="Главное окно" MinWidth="200" />
+ <TextBox x:Name="textBox2" Grid.Column="1" Margin="5" 
+ Grid.Row="1" Text="Подчиненное окно" />
+ <StackPanel Grid.ColumnSpan="2" 
+ HorizontalAlignment="Right" Margin="0" Grid.Row="2" 
+ Orientation="Horizontal">
+ <Button x:Name="button1" Content="ОК" Width="75" 
+ Margin="5" IsDefault="True" 
+ Click="button1_Click" />
+ <Button x:Name="textBox2" Content="Применить" 
+ Width="75" Margin="5" Click="button2_Click" />
+ <Button Content="Отмена" Width="75" Margin="5" 
+ IsCancel="True" />
+ </StackPanel>
+ </Grid>
+</Window>
+```
