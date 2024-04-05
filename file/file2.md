@@ -76,3 +76,46 @@ Window2.xaml
  </Grid>
 </Window>
 ```
+
+## Работа с датами и временем
+
+**Отображение текущего времени**
+```
+<Window x:Class="CLOCK.MainWindow"
+ …
+ Title="Clock" ResizeMode="CanMinimize" 
+ SizeToContent="WidthAndHeight" 
+ WindowStartupLocation="CenterScreen">
+ <StackPanel>
+ <Border Margin="10" BorderBrush="Black" BorderThickness="1" >
+ <TextBlock x:Name="label1" Text="00:00:00" FontSize="100" 
+Padding="50" FontFamily="Arial" TextAlignment="Center"/>
+ </Border>
+ </StackPanel>
+</Window>
+```
+## Выделение активного поля ввод
+
+В файле MainWindow.xaml.cs в описание класса MainWindow добавьте 
+поля
+```
+Brush backgr;
+Brush foregr;
+В конструктор класса MainWindow добавьте следующие операторы:
+backgr = textBox1.Background;
+foregr = textBox1.Foreground;
+textBox1.Focus();
+Наконец, определите в классе MainWindow ранее созданные обработчики:
+private void textBox1_GotFocus(object sender, RoutedEventArgs e)
+{
+ TextBox tb = e.Source as TextBox;
+ tb.Foreground = Brushes.White;
+ tb.Background = Brushes.Green;
+}
+private void textBox1_LostFocus(object sender, RoutedEventArgs e)
+{
+ TextBox tb = e.Source as TextBox;
+ tb.Foreground = foregr;
+ tb.Background = backgr;
+}
+```
