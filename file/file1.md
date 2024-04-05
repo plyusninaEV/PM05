@@ -19,3 +19,6 @@
 -	аутентификация пользователей.
 
 [Разработка пользовательского интерфейс на основе системы Windows Presentation Foundation(WPF)](https://github.com/plyusninaEV/PM05/blob/main/file/file2.md)
+
+## Презентации
+[Проектирование и разработка интерфейса пользователя](https://github.com/plyusninaEV/PM05/blob/main/file/Занятие_Проектирование%20и%20разработка%20интерфейса%20пользователя.pptx)
