@@ -43,5 +43,6 @@
 
 * UWP (Universal Windows Platform) - вроде как "последний писк", рассчитанный на разработку универсальных приложений под Windows Phone, Windows 8 и.т.д
 
+**Элементы управления GUI**
 
 [Пример Как создать GUI](http://high.tealeaf.su/how-to-create-gui.html?ysclid=l3k11id97m)
